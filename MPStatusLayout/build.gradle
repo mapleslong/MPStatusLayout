@@ -26,7 +26,7 @@ publish {
     userOrg = 'mapleslong'
     groupId = 'com.mapleslong.widget'
     artifactId = 'MPStatusLayout'//项目名称
-    publishVersion = '2.1.1'//版本号
+    publishVersion = '2.2.0'//版本号
     desc = ''//描述，不重要
     website = 'https://github.com/mapleslong/MPStatusLayout'
 }

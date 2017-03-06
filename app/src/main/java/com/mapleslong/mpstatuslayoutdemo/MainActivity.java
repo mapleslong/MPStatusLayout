@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mStatusLayout= (MPStatusLayout) findViewById(R.id.status_layout);
-        mStatusLayout.setStatus(MPStatusLayout.STATUS_EMPTY);
+        mStatusLayout.setStatus(MPStatusLayout.STATUS_NONETWORK);
     }
 }

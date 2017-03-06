@@ -27,7 +27,7 @@
         android:id="@+id/btn_error_reload"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/tv_error"
+        android:layout_below="@+id/tv_error"
         android:layout_centerHorizontal="true"
         android:clickable="true"
         android:gravity="center"
