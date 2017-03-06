@@ -19,7 +19,7 @@
         android:id="@+id/img_error"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@id/tv_error"
+        android:layout_above="@+id/tv_error"
         android:layout_centerHorizontal="true"/>
 
 
