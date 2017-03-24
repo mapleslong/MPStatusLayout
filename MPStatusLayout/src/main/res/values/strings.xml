@@ -1,7 +1,7 @@
 <resources>
-    <string name="status_empty">暂无数据</string>
-    <string name="status_loadfail">加载失败，请稍后重试...</string>
-    <string name="status_nonetwork">无网络连接，请检查网络</string>
-    <string name="status_reload">点击重试</string>
-    <string name="status_loading">正在加载...</string>
+  <string name="status_empty">暂无数据</string>
+  <string name="status_loadfail">加载失败，请稍后重试...</string>
+  <string name="status_nonetwork">无网络连接，请检查网络</string>
+  <string name="status_reload">点击重试</string>
+  <string name="status_loading">正在加载...</string>
 </resources>
